@@ -12,4 +12,4 @@ FEATURES_PROVIDED += periph_timer
 FEATURES_PROVIDED += periph_uart
 
 # load the common Makefile.features for Nucleo boards
-include $(RIOTBOARD)/common/nucleo64/Makefile.features
+include $(RIOTBOARD)/common/nucleo/Makefile.features

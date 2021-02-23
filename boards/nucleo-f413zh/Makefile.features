@@ -15,4 +15,4 @@ FEATURES_PROVIDED += periph_uart
 FEATURES_PROVIDED += periph_usbdev
 
 # load the common Makefile.features for Nucleo boards
-include $(RIOTBOARD)/common/nucleo144/Makefile.features
+include $(RIOTBOARD)/common/nucleo/Makefile.features

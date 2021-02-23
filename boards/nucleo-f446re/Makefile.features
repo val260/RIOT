@@ -18,4 +18,4 @@ FEATURES_PROVIDED += motor_driver
 FEATURES_PROVIDED += riotboot
 
 # load the common Makefile.features for Nucleo boards
-include $(RIOTBOARD)/common/nucleo64/Makefile.features
+include $(RIOTBOARD)/common/nucleo/Makefile.features
