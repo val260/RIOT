@@ -7,5 +7,6 @@ FEATURES_PROVIDED += periph_adc
 FEATURES_PROVIDED += periph_i2c
 FEATURES_PROVIDED += periph_rtc
 FEATURES_PROVIDED += periph_rtt
+FEATURES_PROVIDED += periph_rtt_1hz
 FEATURES_PROVIDED += periph_timer
 FEATURES_PROVIDED += periph_uart
